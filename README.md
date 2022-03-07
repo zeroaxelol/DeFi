@@ -8,9 +8,9 @@
 
 **Fundamental and Narrative Analysis:**
 
-1. Prediction Markets on Polygon https://polygondefi.substack.com/p/on-screen-dopamine-markets-on-polygon
-2. **Stablecoin Adoption on AAVE Polygon:** https://polygondefi.substack.com/p/stablecoins-adoption-on-aave-polygon
-3. **The DeFi infrastructure underneath the Curve Wars?** https://polygondefi.substack.com/p/curved-labyrinth-part-1-purpose-of
+1. [Prediction Markets on Polygon] (https://polygondefi.substack.com/p/on-screen-dopamine-markets-on-polygon)
+2. [Stablecoin Adoption on AAVE Polygon:] (https://polygondefi.substack.com/p/stablecoins-adoption-on-aave-polygon)
+3. [The DeFi infrastructure underneath the Curve Wars?] (https://polygondefi.substack.com/p/curved-labyrinth-part-1-purpose-of)
 
 <!---
 zeroaxelol/zeroaxelol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
