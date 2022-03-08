@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zeroaxelol - A Fundamental and Narrative Research Analyst (Decentralized Finance) at Polygon
+- 👋 Hi, I’m a Fundamental and Narrative Research Analyst (Decentralized Finance) at Polygon
 - 👀 I’m interested in DeFi Protocols specially base primitives
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on Fundamental and On-Chain Research in DeFi and NFTs
