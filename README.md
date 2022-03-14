@@ -16,9 +16,11 @@
 
 ## Up-coming articles:
 
-1. Curve'd Labyrinth Part-2: A Bribe Fest and Composable Puppets
-2. DeFi Fast Food
-3. Literature Review: On-Chain Option Protocols
+Curve'd Labyrinth Part-2: A Bribe Fest and Composable Puppets
+
+DeFi Fast Food
+
+Literature Review: On-Chain Option Protocols
 
 
 <!---
