@@ -1,5 +1,5 @@
 - 👋 Hi, I’m a Fundamental and Narrative Research Analyst (Decentralized Finance) at Polygon
-- 👀 I’m interested in DeFi Protocols specially base primitives
+- 👀 I’m interested in DeFi Protocols specially Base Primitives and Derivatives
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on Fundamental and On-Chain Research in DeFi and NFTs
 - 📫 How to reach me https://twitter.com/zeroaxelol
