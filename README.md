@@ -8,6 +8,8 @@
 
 ## Fundamental and Narrative Analysis:
 
+[A Game of Premiums Through A Myriad of Complexities! — A Deep-Dive into On-Chain Option Protocols](https://polygontech.medium.com/a-game-of-premiums-through-a-myriad-of-complexities-a-deep-dive-into-on-chain-option-protocols-d9619fe99278)
+
 [Prediction Markets on Polygon](https://polygondefi.substack.com/p/on-screen-dopamine-markets-on-polygon)
 
 [Stablecoin Adoption on AAVE Polygon: Reading Between the Chains](https://polygondefi.substack.com/p/stablecoins-adoption-on-aave-polygon)
@@ -19,8 +21,6 @@
 Curve'd Labyrinth Part-2: A Bribe Fest and Composable Puppets
 
 DeFi Fast Food
-
-Literature Review: On-Chain Option Protocols
 
 
 <!---
