@@ -1,6 +1,6 @@
 - 👋 Hi, I’m a Fundamental and Narrative Research Analyst (Decentralized Finance) at Polygon
 - 👀 I’m interested in DeFi Protocols specially Base Primitives and Derivatives
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m a regular contributor at [Square Labs - DeFi Resources](https://github.com/Square-Labs/DeFi-Resources)
 - 💞️ I’m looking to collaborate on Fundamental and On-Chain Research in DeFi and NFTs
 - 📫 How to reach me https://twitter.com/zeroaxelol
 
@@ -18,7 +18,11 @@
 
 ## Up-coming articles:
 
+DeFi vs Goliath
+
 Curve'd Labyrinth Part-2: A Bribe Fest and Composable Puppets
+
+Undercollateralized Lending for Institutions
 
 DeFi Fast Food
 
