@@ -8,6 +8,8 @@
 
 ## Fundamental and Narrative Analysis:
 
+![image](https://user-images.githubusercontent.com/101138966/161851219-0845caf0-9a69-43cf-a72b-d3b2e1f99bea.png)
+
 [A Game of Premiums Through A Myriad of Complexities! — A Deep-Dive into On-Chain Option Protocols](https://polygontech.medium.com/a-game-of-premiums-through-a-myriad-of-complexities-a-deep-dive-into-on-chain-option-protocols-d9619fe99278)
 
 [Prediction Markets on Polygon](https://polygondefi.substack.com/p/on-screen-dopamine-markets-on-polygon)
