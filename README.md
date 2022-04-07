@@ -14,7 +14,7 @@
 
 [Stablecoin Adoption on AAVE Polygon: Reading Between the Chains](https://polygondefi.substack.com/p/stablecoins-adoption-on-aave-polygon)
 
-[DeFi vs Goliath](https://polygondefi.substack.com/p/defi-vs-goliath?s=w)
+[DeFi vs Goliath - Can Decentralized Finance Survive the Inevitable Battle with Central Bank Digital Currencies?](https://polygondefi.substack.com/p/defi-vs-goliath?s=w)
 
 [Curve’d Labyrinth (Part 1): Purpose of Existence and Origins of War](https://polygondefi.substack.com/p/curved-labyrinth-part-1-purpose-of)
 
