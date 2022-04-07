@@ -18,6 +18,8 @@
 
 ## Up-coming articles:
 
+A Deep Dive on Automated Market Makers
+
 DeFi vs Goliath
 
 Curve'd Labyrinth Part-2: A Bribe Fest and Composable Puppets
