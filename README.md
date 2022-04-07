@@ -14,13 +14,13 @@
 
 [Stablecoin Adoption on AAVE Polygon: Reading Between the Chains](https://polygondefi.substack.com/p/stablecoins-adoption-on-aave-polygon)
 
+[DeFi vs Goliath](https://polygondefi.substack.com/p/defi-vs-goliath?s=w)
+
 [Curve’d Labyrinth (Part 1): Purpose of Existence and Origins of War](https://polygondefi.substack.com/p/curved-labyrinth-part-1-purpose-of)
 
 ## Up-coming articles:
 
 A Deep Dive on Automated Market Makers
-
-DeFi vs Goliath
 
 Curve'd Labyrinth Part-2: A Bribe Fest and Composable Puppets
 
