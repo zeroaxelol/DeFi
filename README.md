@@ -22,6 +22,8 @@
 
 A Deep Dive on Automated Market Makers
 
+An Extensive Review of Black-Scholes-Merton Model in Options' Pricing
+
 On-Chain Chaos - Disassociation (On-chain analysis of ETH and WBTC to analyze the behavior of investors in these majors)
 
 Undercollateralized Lending for Institutions
