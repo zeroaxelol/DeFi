@@ -22,7 +22,7 @@
 
 A Deep Dive on Automated Market Makers
 
-Curve'd Labyrinth Part-2: A Bribe Fest and Composable Puppets
+On-Chain Chaos - Disassociation (On-chain analysis of ETH and WBTC to analyze the behavior of investors in these majors)
 
 Undercollateralized Lending for Institutions
 
