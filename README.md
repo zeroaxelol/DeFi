@@ -10,7 +10,7 @@
 
 [A Game of Premiums Through A Myriad of Complexities! — A Deep-Dive into On-Chain Option Protocols](https://polygontech.medium.com/a-game-of-premiums-through-a-myriad-of-complexities-a-deep-dive-into-on-chain-option-protocols-d9619fe99278)
 
-[The Crypto Loan Economy - A Deep-Dive into Undercollateralized Crypto Lending Ecosystem](https://polygontech.medium.com/the-crypto-loan-economy-d788ac794b3c)
+[The Crypto Loan Economy — A Deep-Dive into Undercollateralized Crypto Lending Ecosystem](https://polygontech.medium.com/the-crypto-loan-economy-d788ac794b3c)
 
 [Prediction Markets on Polygon](https://polygondefi.substack.com/p/on-screen-dopamine-markets-on-polygon)
 
