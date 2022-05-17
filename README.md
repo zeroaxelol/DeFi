@@ -22,7 +22,7 @@
 
 ## Up-coming articles:
 
-A Deep Dive on Automated Market Makers
+A Deep-Dive into Automated Market Makers
 
 An Extensive Review of Black-Scholes-Merton Model in Options' Pricing
 
