@@ -10,11 +10,13 @@
 
 [A Game of Premiums Through A Myriad of Complexities! — A Deep-Dive into On-Chain Option Protocols](https://polygontech.medium.com/a-game-of-premiums-through-a-myriad-of-complexities-a-deep-dive-into-on-chain-option-protocols-d9619fe99278)
 
+[The Crypto Loan Economy - A Deep-Dive into Undercollateralized Crypto Lending Ecosystem](https://polygontech.medium.com/the-crypto-loan-economy-d788ac794b3c)
+
 [Prediction Markets on Polygon](https://polygondefi.substack.com/p/on-screen-dopamine-markets-on-polygon)
 
-[Stablecoin Adoption on AAVE Polygon: Reading Between the Chains](https://polygondefi.substack.com/p/stablecoins-adoption-on-aave-polygon)
-
 [DeFi vs Goliath - Can Decentralized Finance Survive the Inevitable Battle with Central Bank Digital Currencies?](https://medium.com/the-polygon-blog/defi-vs-goliath-86ef4fadea81)
+
+[Stablecoin Adoption on AAVE Polygon: Reading Between the Chains](https://polygondefi.substack.com/p/stablecoins-adoption-on-aave-polygon)
 
 [Curve’d Labyrinth (Part 1): Purpose of Existence and Origins of War](https://polygondefi.substack.com/p/curved-labyrinth-part-1-purpose-of)
 
@@ -25,8 +27,6 @@ A Deep Dive on Automated Market Makers
 An Extensive Review of Black-Scholes-Merton Model in Options' Pricing
 
 On-Chain Chaos - Disassociation (On-chain analysis of ETH and WBTC to analyze the behavior of investors in these majors)
-
-Undercollateralized Lending for Institutions
 
 DeFi Fast Food
 
