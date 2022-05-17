@@ -12,7 +12,7 @@
 
 [The Crypto Loan Economy — A Deep-Dive into Undercollateralized Crypto Lending Ecosystem](https://polygontech.medium.com/the-crypto-loan-economy-d788ac794b3c)
 
-[Prediction Markets on Polygon](https://polygondefi.substack.com/p/on-screen-dopamine-markets-on-polygon)
+[Dopamine (Prediction) Markets on Polygon](https://polygondefi.substack.com/p/on-screen-dopamine-markets-on-polygon)
 
 [DeFi vs Goliath - Can Decentralized Finance Survive the Inevitable Battle with Central Bank Digital Currencies?](https://medium.com/the-polygon-blog/defi-vs-goliath-86ef4fadea81)
 
