@@ -20,6 +20,8 @@
 
 [Curve’d Labyrinth (Part 1): Purpose of Existence and Origins of War](https://polygondefi.substack.com/p/curved-labyrinth-part-1-purpose-of)
 
+[ETH Merge (Tokenomics and Validator Yields) & World of Layer 2 Solutions (Fee Generation and Token Network Effects)](https://docs.google.com/presentation/d/1Z0zhQDZ9z0CtmbuPecQqHu9gvnQg6ekWHZ5SqfOrgn4/edit?usp=sharing)
+
 ## Up-coming articles:
 
 A Deep-Dive into Automated Market Makers
