@@ -30,13 +30,13 @@
 
 ## Up-coming articles:
 
-A Deep-Dive into Automated Market Makers
+Pricing On-chain Options - Into the Dark Alleys of Black-Scholes-Merton Model
 
-An Extensive Review of Black-Scholes-Merton Model in Options' Pricing
+The Ultimate Adoption Curve for DeFi
+
+DeSci x DeFi
 
 On-Chain Chaos - Disassociation (On-chain analysis of ETH and WBTC to analyze the behavior of investors in these majors)
-
-DeFi Fast Food
 
 
 <!---
