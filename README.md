@@ -26,7 +26,7 @@
 
 ## Product:
 
-[DeFi Interactive Bot - (WIP)](https://github.com/Square-Labs/DeFi-Bots)
+[DeFi Interactive Bot (WIP)](https://github.com/Square-Labs/DeFi-Bots)
 
 ## Up-coming articles:
 
