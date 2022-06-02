@@ -24,9 +24,9 @@
 
 [ETH Merge (Tokenomics and Validator Yields) & World of Layer 2 Solutions (Fee Generation and Token Network Effects)](https://docs.google.com/presentation/d/1Z0zhQDZ9z0CtmbuPecQqHu9gvnQg6ekWHZ5SqfOrgn4/edit?usp=sharing)
 
-## DeFi Language Generation Bots (WIP):
+## Product:
 
-[Square Labs - DeFi Bots](https://github.com/Square-Labs/DeFi-Bots)
+[DeFi Interactive Bot - (WIP)](https://github.com/Square-Labs/DeFi-Bots)
 
 ## Up-coming articles:
 
