@@ -10,6 +10,10 @@
 
 [A Game of Premiums Through A Myriad of Complexities! — A Deep-Dive into On-Chain Option Protocols](https://polygontech.medium.com/a-game-of-premiums-through-a-myriad-of-complexities-a-deep-dive-into-on-chain-option-protocols-d9619fe99278)
 
+[Black Scholes Merton Model to Price DeFi Options (Part 1): A Tale of The King with Torn Clothes](https://polygontech.medium.com/black-scholes-merton-model-to-price-defi-options-part-1-a-tale-of-the-king-with-torn-clothes-dff043eadea6)
+
+[Black Scholes Merton Model to Price DeFi Options (Part -2): Analyzing the Pricing ‘Systems’](https://polygontech.medium.com/black-scholes-merton-model-to-price-defi-options-part-2-analyzing-the-pricing-systems-62d1e8de7027)
+
 [The Crypto Loan Economy — A Deep-Dive into Undercollateralized Crypto Lending Ecosystem](https://polygontech.medium.com/the-crypto-loan-economy-d788ac794b3c)
 
 [Dopamine (Prediction) Markets on Polygon](https://polygondefi.substack.com/p/on-screen-dopamine-markets-on-polygon)
@@ -30,14 +34,9 @@
 
 ## Up-coming articles:
 
-Pricing On-chain Options - Into the Dark Alleys of Black-Scholes-Merton Model
-
 The Ultimate Adoption Curve for DeFi
 
 DeSci x DeFi
-
-On-Chain Chaos - Disassociation (On-chain analysis of ETH and WBTC to analyze the behavior of investors in these majors)
-
 
 <!---
 zeroaxelol/zeroaxelol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
