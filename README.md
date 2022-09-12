@@ -29,6 +29,10 @@
 
 [Stablecoin Adoption on AAVE Polygon: Reading Between the Chains](https://polygondefi.substack.com/p/stablecoins-adoption-on-aave-polygon)
 
+## Decentralized Science (DeSci)
+
+[FORUM PROPOSAL: Decentralized Science - A New Ecosystem On Polygon](https://forum.polygon.technology/t/decentralized-science-desci-a-new-ecosystem-on-polygon/9710)
+
 ## Prediction Markets:
 
 [Dopamine (Prediction) Markets on Polygon](https://polygondefi.substack.com/p/on-screen-dopamine-markets-on-polygon)
