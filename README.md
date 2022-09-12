@@ -33,7 +33,7 @@
 
 [Dopamine (Prediction) Markets on Polygon](https://polygondefi.substack.com/p/on-screen-dopamine-markets-on-polygon)
 
-#CBDCs:
+## CBDCs:
 
 [DeFi vs Goliath - Can Decentralized Finance Survive the Inevitable Battle with Central Bank Digital Currencies?](https://medium.com/the-polygon-blog/defi-vs-goliath-86ef4fadea81)
 
