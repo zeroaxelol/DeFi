@@ -8,7 +8,7 @@
 
 ## DeFi Options and Other Derivatives:
 
-[A Game of Premiums Through A Myriad of Complexities! — A Deep-Dive into On-Chain Option Protocols](https://polygontech.medium.com/a-game-of-premiums-through-a-myriad-of-complexities-a-deep-dive-into-on-chain-option-protocols-d9619fe99278)
+[A GAME OF PREMIUMS THROUGH A MYRIAD OF COMPLEXITIES! — A DEEP-DIVE INTO ON-CHAIN OPTION PROTOCOLS](https://polygontech.medium.com/a-game-of-premiums-through-a-myriad-of-complexities-a-deep-dive-into-on-chain-option-protocols-d9619fe99278)
 
 [Black Scholes Merton Model to Price DeFi Options (Part 1): A Tale of The King with Torn Clothes](https://polygontech.medium.com/black-scholes-merton-model-to-price-defi-options-part-1-a-tale-of-the-king-with-torn-clothes-dff043eadea6)
 
