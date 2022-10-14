@@ -14,6 +14,8 @@
 
 [Black Scholes Merton Model to Price DeFi Options (Part -2): Analyzing the Pricing ‘Systems’](https://polygontech.medium.com/black-scholes-merton-model-to-price-defi-options-part-2-analyzing-the-pricing-systems-62d1e8de7027)
 
+[Best Practices for Building Decentralized Option Vaults (DOVs)](https://polygontech.medium.com/best-practices-for-building-decentralized-option-vaults-5ff254687ab2)
+
 [Curve’d Labyrinth (Part 1): Purpose of Existence and Origins of War](https://polygondefi.substack.com/p/curved-labyrinth-part-1-purpose-of)
 
 ## ETH Merge:
