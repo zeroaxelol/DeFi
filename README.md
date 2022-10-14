@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Fundamental and On-Chain Research in DeFi and NFTs
 - 📫 How to reach me https://twitter.com/zeroaxelol
 
-# Some of my recent works:
+# My Research Work:
 
 ## DeFi Options and Other Derivatives:
 
