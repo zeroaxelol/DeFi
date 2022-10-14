@@ -10,51 +10,51 @@
 
 [A GAME OF PREMIUMS THROUGH A MYRIAD OF COMPLEXITIES! — A DEEP-DIVE INTO ON-CHAIN OPTION PROTOCOLS](https://polygontech.medium.com/a-game-of-premiums-through-a-myriad-of-complexities-a-deep-dive-into-on-chain-option-protocols-d9619fe99278)
 
-[Black Scholes Merton Model to Price DeFi Options (Part 1): A Tale of The King with Torn Clothes](https://polygontech.medium.com/black-scholes-merton-model-to-price-defi-options-part-1-a-tale-of-the-king-with-torn-clothes-dff043eadea6)
+[BLACK SCHOLES MERTON MODEL TO PRICE DEFI OPTIONS (PART 1): A TALE OF THE KING WITH TORN CLOTHES](https://polygontech.medium.com/black-scholes-merton-model-to-price-defi-options-part-1-a-tale-of-the-king-with-torn-clothes-dff043eadea6)
 
-[Black Scholes Merton Model to Price DeFi Options (Part -2): Analyzing the Pricing ‘Systems’](https://polygontech.medium.com/black-scholes-merton-model-to-price-defi-options-part-2-analyzing-the-pricing-systems-62d1e8de7027)
+[BLACK SCHOLES MERTON MODEL TO PRICE DEFI OPTIONS (PART -2): ANALYZING THE PRICING ‘SYSTEMS’](https://polygontech.medium.com/black-scholes-merton-model-to-price-defi-options-part-2-analyzing-the-pricing-systems-62d1e8de7027)
 
-[Best Practices for Building Decentralized Option Vaults (DOVs)](https://polygontech.medium.com/best-practices-for-building-decentralized-option-vaults-5ff254687ab2)
+[BEST PRACTICES FOR BUILDING DECENTRALIZED OPTION VAULTS (DOVS)](https://polygontech.medium.com/best-practices-for-building-decentralized-option-vaults-5ff254687ab2)
 
-[Curve’d Labyrinth (Part 1): Purpose of Existence and Origins of War](https://polygondefi.substack.com/p/curved-labyrinth-part-1-purpose-of)
+[CURVE’D LABYRINTH (PART 1): PURPOSE OF EXISTENCE AND ORIGINS OF WAR](https://polygondefi.substack.com/p/curved-labyrinth-part-1-purpose-of)
 
 ## ETH Merge:
 
-[INVESTMENT THESIS: ETH Merge (Tokenomics and Validator Yields) & World of Layer 2 Solutions (Fee Generation and Token Network Effects)](https://docs.google.com/presentation/d/1Z0zhQDZ9z0CtmbuPecQqHu9gvnQg6ekWHZ5SqfOrgn4/edit?usp=sharing)
+[INVESTMENT THESIS: ETH MERGE (TOKENOMICS AND VALIDATOR YIELDS) & WORLD OF LAYER 2 SOLUTIONS (FEE GENERATION AND TOKEN NETWORK EFFECTS)](https://docs.google.com/presentation/d/1Z0zhQDZ9z0CtmbuPecQqHu9gvnQg6ekWHZ5SqfOrgn4/edit?usp=sharing)
 
-[A Compilation of all the Important Discussions Going on at Various DeFi Forums in View of ETH Merge
-](https://polygontech.medium.com/whats-up-with-defi-before-merge-277df1f4b9ce)
+[A COMPILATION OF ALL THE IMPORTANT DISCUSSIONS GOING ON AT VARIOUS DEFI FORUMS IN VIEW OF ETH MERGE](https://polygontech.medium.com/whats-up-with-defi-before-merge-277df1f4b9ce)
 
 ## Money Markets:
 
-[The Crypto Loan Economy — A Deep-Dive into Undercollateralized Crypto Lending Ecosystem](https://polygontech.medium.com/the-crypto-loan-economy-d788ac794b3c)
+[THE CRYPTO LOAN ECONOMY — A DEEP-DIVE INTO UNDERCOLLATERALIZED CRYPTO LENDING ECOSYSTEM](https://polygontech.medium.com/the-crypto-loan-economy-d788ac794b3c)
 
-[Stablecoin Adoption on AAVE Polygon: Reading Between the Chains](https://polygondefi.substack.com/p/stablecoins-adoption-on-aave-polygon)
+[STABLECOIN ADOPTION ON AAVE POLYGON: READING BETWEEN THE CHAINS](https://polygondefi.substack.com/p/stablecoins-adoption-on-aave-polygon)
 
 ## Decentralized Science (DeSci)
 
-[FORUM PROPOSAL: Decentralized Science - A New Ecosystem On Polygon](https://forum.polygon.technology/t/decentralized-science-desci-a-new-ecosystem-on-polygon/9710)
+[FORUM PROPOSAL: DECENTRALIZED SCIENCE - A NEW ECOSYSTEM ON POLYGON](https://forum.polygon.technology/t/decentralized-science-desci-a-new-ecosystem-on-polygon/9710)
 
 ## Prediction Markets:
 
-[Dopamine (Prediction) Markets on Polygon](https://polygondefi.substack.com/p/on-screen-dopamine-markets-on-polygon)
+[DOPAMINE (PREDICTION) MARKETS ON POLYGON](https://polygondefi.substack.com/p/on-screen-dopamine-markets-on-polygon)
 
 ## CBDCs:
 
-[DeFi vs Goliath - Can Decentralized Finance Survive the Inevitable Battle with Central Bank Digital Currencies?](https://medium.com/the-polygon-blog/defi-vs-goliath-86ef4fadea81)
+[DEFI VS GOLIATH - CAN DECENTRALIZED FINANCE SURVIVE THE INEVITABLE BATTLE WITH CENTRAL BANK DIGITAL CURRENCIES?](https://medium.com/the-polygon-blog/defi-vs-goliath-86ef4fadea81)
 
 
 ## Product:
 
-DeFi Interactive Bot (WIP)
+DEFI INTERACTIVE BOT (WIP)
 
 ## Up-coming articles:
 
-How can Zero Knowledge Proofs (ZKPs), Aggregation Layers, and Light Nodes Improve Web3 Infrastructure?
+HOW CAN ZERO KNOWLEDGE PROOFS (ZKPS), AGGREGATION LAYERS, AND LIGHT NODES IMPROVE WEB3 INFRASTRUCTURE?
 
-The Ultimate Adoption Curve for DeFi
+THE ULTIMATE ADOPTION CURVE FOR DEFI
 
-Evaluation of Existing Product Market Fit in Crypto
+EVALUATION OF EXISTING PRODUCT MARKET FIT IN CRYPTO
+
 
 <!---
 zeroaxelol/zeroaxelol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
