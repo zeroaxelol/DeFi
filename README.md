@@ -18,6 +18,10 @@
 
 [CURVE’D LABYRINTH (PART 1): PURPOSE OF EXISTENCE AND ORIGINS OF WAR](https://polygondefi.substack.com/p/curved-labyrinth-part-1-purpose-of)
 
+## WEB3 INFRASTRUCTURE
+
+[HOW ZERO KNOWLEDGE PROOFS, AGGREGATION LAYERS, AND LIGHT NODES CAN IMPROVE WEB3 EXPERIENCE AND STRUCTURE?](https://polygontech.medium.com/how-zero-knowledge-proofs-aggregation-layers-and-light-nodes-can-improve-web3-experience-b06e434c09e9)
+
 ## ETH Merge:
 
 [INVESTMENT THESIS: ETH MERGE (TOKENOMICS AND VALIDATOR YIELDS) & WORLD OF LAYER 2 SOLUTIONS (FEE GENERATION AND TOKEN NETWORK EFFECTS)](https://docs.google.com/presentation/d/1Z0zhQDZ9z0CtmbuPecQqHu9gvnQg6ekWHZ5SqfOrgn4/edit?usp=sharing)
